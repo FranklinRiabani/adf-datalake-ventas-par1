@@ -1,0 +1,9 @@
+{
+	"name": "df-sisger-545645745",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cbfe2f7-6f21-4974-bff2-cc40d253082e",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
